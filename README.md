@@ -1,5 +1,5 @@
+![Image of Yaktocat](https://spyx3m119.github.io/img/VP-logo2D.png)
 ### Hi there 👋
-
 <!--
 **spyx3m119/spyx3m119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
